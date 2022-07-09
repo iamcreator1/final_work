@@ -1,0 +1,35 @@
+.navbar-nav {
+  transition: 0.5s;
+}
+
+.navbar-nav li:hover {
+  background-color: #000000;
+  color: white;
+}
+
+.navbar-nav .nav-item a {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.navbar-nav .nav-item:first-of-type {
+  margin-right: 13px;
+}
+
+.navbar-nav .nav-item:nth-child(2) {
+  margin-right: 20px;
+}
+
+.navbar-nav .nav-item:nth-child(3) {
+  margin-right: 15px;
+}
+
+.menu-for-shop-search img {
+  margin-right: 15px;
+}
+/*# sourceMappingURL=style.css.map */
